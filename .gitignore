@@ -1,0 +1,19 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated paper data
+data/papers/
+data/vectorstore/
+
+# FastEmbed / model cache
+.fastembed_cache/
+
+.virtual_documents/

@@ -1,0 +1,7 @@
+langgraph
+arxiv
+pymupdf
+fastembed
+faiss-cpu
+python-dotenv
+groq
