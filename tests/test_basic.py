@@ -1,4 +1,3 @@
-```python
 import unittest
 
 from app.nodes.query import detect_query_type
@@ -55,4 +54,3 @@ class TestChunking(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-```
